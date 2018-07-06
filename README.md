@@ -1,2 +1,3 @@
-# troutcast
-Exploring Mike Trout's performance
+# baseball-notebooks
+
+Python notebooks exploring Major League Baseball data
